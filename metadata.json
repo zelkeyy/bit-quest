@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Challenger",
+  "description": "A web-based quiz game where users answer questions to unlock progressively harder levels. Player progress is saved locally, featuring a sleek, responsive UI with smooth animations.",
+  "requestFramePermissions": []
+}
